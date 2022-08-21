@@ -1,2 +1,2 @@
 # Background-changer
-Does text show up now
+You press a pretty button and the background of the website changes
